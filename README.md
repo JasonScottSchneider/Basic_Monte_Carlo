@@ -1,0 +1,2 @@
+# Basic_Monte_Carlo
+This is a basic Monte Carlo. It doesn't seem like much because, fundamentally, a Monte Carlo is fairly simple, but it can become complex depending on the various algorithms implemented, which this Monte Carlo I programmed using Python is straight forward without using anything complicated. I essentially wanted to do this to exhibit the fundamental mathematics of it, nothing more.
